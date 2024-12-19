@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "*.dbclient-js": "javascript",
+    "chunk.h": "c",
+    "memory.h": "c",
+    "common.h": "c",
+    "stdbool.h": "c",
+    "stddef.h": "c",
+    "value.h": "c"
+  }
+}
