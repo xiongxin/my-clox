@@ -11,6 +11,16 @@
     "scanner.h": "c",
     "*.tcc": "c",
     "functional": "c",
-    "streambuf": "c"
+    "streambuf": "c",
+    "charconv": "c",
+    "optional": "c",
+    "format": "c",
+    "system_error": "c",
+    "array": "c",
+    "tuple": "c",
+    "type_traits": "c",
+    "utility": "c",
+    "object.h": "c",
+    "string.h": "c"
   }
 }
