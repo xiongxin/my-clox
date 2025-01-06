@@ -21,6 +21,16 @@
     "type_traits": "c",
     "utility": "c",
     "object.h": "c",
-    "string.h": "c"
+    "string.h": "c",
+    "compare": "c",
+    "variant": "c",
+    "deque": "c",
+    "string": "c",
+    "unordered_map": "c",
+    "vector": "c",
+    "iterator": "c",
+    "string_view": "c",
+    "span": "c",
+    "cstdlib": "c"
   }
 }
