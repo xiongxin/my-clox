@@ -36,6 +36,7 @@
     "limits": "c",
     "new": "c",
     "ostream": "c",
-    "random": "c"
+    "random": "c",
+    "cstdint": "c"
   }
 }
